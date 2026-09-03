@@ -3,3 +3,12 @@
   grid-template-columns: repeat(4, 1fr);
   gap: 10px;
 }
+.visited-flag {
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px;
+}
+.visited-flag img{
+  width: 60px;
+  margin: 6px;
+}
